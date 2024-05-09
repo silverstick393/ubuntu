@@ -1,3 +1,0 @@
-git password : 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6
-인의예지 서버 : ssh s23315171@swui.skku.edu -p 1398
-인의예지 비번 : pw23315171
