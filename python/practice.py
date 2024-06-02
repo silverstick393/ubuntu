@@ -1,2 +1,2 @@
-for i in range(1,10,2):
-    print(i)
+with open("CARD_SUBWAY_MONTH_202404.csv", "r") as f:
+    a = list(f.read)
