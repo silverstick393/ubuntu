@@ -24,7 +24,7 @@ int main(){
     sort(list, num);
     clock_t end_time = clock();
     double execution_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
-    printf("%d개의 지하철 개수를 linked list로 표현하기 위한 시간은 %f입니다.\n",num, execution_time);
+    printf("%d개의 지하철 개수를 array로 표현하기 위한 시간은 %f입니다.\n",num, execution_time);
     getchar();
     printf("찾고싶은 지하철 역 이름을 대시오\n");
     gets(subwayName);
